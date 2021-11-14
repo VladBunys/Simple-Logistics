@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(55,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(90,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(95,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(98,14): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(102,15): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Vladislav\source\repos\LogisticsEstimate\LogisticsEstimate\Source.cpp(133,39): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  LogisticsEstimate.vcxproj -> C:\Users\Vladislav\source\repos\LogisticsEstimate\x64\Debug\LogisticsEstimate.exe
