@@ -168,7 +168,6 @@ int main() {
 			}
 
 		}
-		cout << d[2][2] << endl;
 		// Now declare an array to store all the sums of distances.
 		// So sumDistances[i] will correspond to a place[i], the sum of all distances for that patricular place
 		double sumDistance[Np];
