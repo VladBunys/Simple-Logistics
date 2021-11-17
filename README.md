@@ -10,3 +10,4 @@ The programm can be used to find the best place to put a delivery hub excluding 
 the demand. If you don't have the demand data, just leave the 2nd column empty, however it needs to be there
 The .csv file must also have it's first row filled with column titles.
 If you need only need to find the distance between place[i] and place[j], just type : cout << d[i][j] << endl;
+Demo .csv file is included, called: file_name.csv
